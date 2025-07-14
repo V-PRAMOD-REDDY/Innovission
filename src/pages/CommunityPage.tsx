@@ -12,13 +12,13 @@ import PageHeader from '../components/PageHeader';
 import SectionTitle from '../components/SectionTitle';
 
 // Local Images
-import headerImage from '../assets/images/community/header-bg.jpg';
-import guidelinesImage from '../assets/images/community/guidelines.jpg';
-import dashboardPreview from '../assets/images/community/dashboard-preview.jpg';
-import rahulSharma from '../assets/images/community/contributors/rahul-sharma.jpg';
-import priyaPatel from '../assets/images/community/contributors/priya-patel.jpg';
-import vikramSingh from '../assets/images/community/contributors/vikram-singh.jpg';
-import ananyaReddy from '../assets/images/community/contributors/ananya-reddy.jpg';
+import headerImage from '../Assets/images/community/header-bg.jpg';
+import guidelinesImage from '../Assets/images/community/guidelines.jpg';
+import dashboardPreview from '../Assets/images/community/dashboard-preview.jpg';
+import rahulSharma from '../Assets/images/community/contributors/rahul-sharma.jpg';
+import priyaPatel from '../Assets/images/community/contributors/priya-patel.jpg';
+import vikramSingh from '../Assets/images/community/contributors/vikram-singh.jpg';
+import ananyaReddy from '../Assets/images/community/contributors/ananya-reddy.jpg';
 
 const contributors = [
   {

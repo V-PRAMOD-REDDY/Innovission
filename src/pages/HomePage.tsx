@@ -11,7 +11,7 @@ import LoadingSpinner from '../components/LoadingSpinner';
 import { useGoogleSheetsCourses } from '../hooks/useGoogleSheets';
 
 // Importing local images
-import ncatBanner from '../assets/images/home/ncat-banner.jpg';
+import ncatBanner from '../Assets/images/home/ncat-banner.jpg';
 // Optional: You can add these if you want to show icons
 // import telegramIcon from '../assets/images/home/telegram.png';
 // import discordIcon from '../assets/images/home/discord.png';
